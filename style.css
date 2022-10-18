@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+    background: aqua;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    overflow: hidden;
+    
+    
+}
+
+.box{
+    border: solid 2px white;
+    padding: 20px ;
+    background-color: azure;
+    border-radius: 10px;
+    
+    
+    
+    
+}
+.number2{
+    display: block;
+}
+.add{
+    margin: 20px;
+    font-family: cursive;
+    color: aquamarine;
+    background-color: blue;
+
+}
+h1{
+    font-family: cursive;
+}
+input{
+    font-family: cursive;
+    text-align: center;
+}
